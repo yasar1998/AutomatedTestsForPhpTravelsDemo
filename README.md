@@ -8,3 +8,5 @@ Features tested are four menus and three filling form pages
 Testing Is successful:
 
 ![Screenshot from 2021-05-16 23-40-23](https://user-images.githubusercontent.com/31879611/118413609-78a47b00-b6a0-11eb-8ed6-56602d6482d9.png)
+
+Used: Java, Apache Maven,Intellij IDEA, Selenium, CucumberTest
